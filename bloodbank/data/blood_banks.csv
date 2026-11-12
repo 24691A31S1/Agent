@@ -1,0 +1,101 @@
+id,name,address,city,phone,license_no,latitude,longitude,rating,is_verified
+1,Lifeline Blood Bank Dwaraka Nagar,"58, Market Street, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh",Visakhapatnam,+918913000000,AP-BB-2024-5506,17.731483,83.29895,3.8,TRUE
+2,Brodipet District Blood Center,"29, Anna Salai, Brodipet, Guntur, Andhra Pradesh",Guntur,+918639000000,AP-BB-2025-4257,16.29868,80.439561,4.4,TRUE
+3,Lifeline Blood Bank AIR Bypass Road,"97, Gandhi Nagar, AIR Bypass Road, Tirupati, Andhra Pradesh",Tirupati,+918771000000,AP-BB-2019-6514,13.645108,79.409464,3.5,TRUE
+4,Labbipet Government Blood Bank,"80, Main Road, Labbipet, Vijayawada, Andhra Pradesh",Vijayawada,+918662000000,AP-BB-2023-7201,16.507287,80.662193,4.3,TRUE
+5,Sanjeevani Blood Bank Tilak Road,"126, Church Road, Tilak Road, Tirupati, Andhra Pradesh",Tirupati,+918772000000,AP-BB-2022-4814,13.642092,79.433757,3.7,TRUE
+6,Sanjeevani Blood Bank AIR Bypass Road,"13, Gandhi Nagar, AIR Bypass Road, Tirupati, Andhra Pradesh",Tirupati,+918778000000,AP-BB-2019-3803,13.663,79.424241,3.4,TRUE
+7,Arundelpet District Blood Center,"173, Church Road, Arundelpet, Guntur, Andhra Pradesh",Guntur,+918636000000,AP-BB-2022-6168,16.304371,80.429763,4.2,TRUE
+8,Sanjeevani Blood Bank Patamata,"111, 2nd Cross Street, Patamata, Vijayawada, Andhra Pradesh",Vijayawada,+918669000000,AP-BB-2022-5040,16.508066,80.631846,3.7,FALSE
+9,Dargamitta District Blood Center,"67, Gandhi Nagar, Dargamitta, Nellore, Andhra Pradesh",Nellore,+918611000000,AP-BB-2025-1771,14.442886,79.964927,3.7,FALSE
+10,Innespeta Apollo Blood Bank,"82, Church Road, Innespeta, Rajahmundry, Andhra Pradesh",Rajahmundry,+918832000000,AP-BB-2025-1188,16.999242,81.775497,3.3,TRUE
+11,MVP Colony Government Blood Bank,"187, Church Road, MVP Colony, Visakhapatnam, Andhra Pradesh",Visakhapatnam,+918911000000,AP-BB-2022-9317,17.746757,83.341059,4.4,TRUE
+12,Gunadala Apollo Blood Bank,"116, Market Street, Gunadala, Vijayawada, Andhra Pradesh",Vijayawada,+918663000000,AP-BB-2019-9005,16.533455,80.656068,3.2,TRUE
+13,Dwaraka Nagar Medical College Blood Bank,"194, Gandhi Nagar, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh",Visakhapatnam,+918913000000,AP-BB-2020-3060,17.74164,83.314181,3.8,TRUE
+14,Tilak Road District Blood Center,"122, Market Street, Tilak Road, Tirupati, Andhra Pradesh",Tirupati,+918777000000,AP-BB-2022-6107,13.641558,79.424896,3.4,TRUE
+15,Arundelpet Medical College Blood Bank,"134, 2nd Cross Street, Arundelpet, Guntur, Andhra Pradesh",Guntur,+918631000000,AP-BB-2018-1117,16.314118,80.446453,4,TRUE
+16,Jagannaickpur General Blood Bank,"7, Market Street, Jagannaickpur, Kakinada, Andhra Pradesh",Kakinada,+918844000000,AP-BB-2023-8744,16.969827,82.214969,3.7,TRUE
+17,Dwaraka Nagar District Blood Center,"152, Market Street, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh",Visakhapatnam,+918920000000,AP-BB-2024-2612,17.732501,83.327725,3.3,TRUE
+18,Stonehousepet Red Cross Blood Center,"12, Gandhi Nagar, Stonehousepet, Nellore, Andhra Pradesh",Nellore,+918618000000,AP-BB-2018-8260,14.441194,80.002998,3.3,TRUE
+19,Gunadala District Blood Center,"136, 2nd Cross Street, Gunadala, Vijayawada, Andhra Pradesh",Vijayawada,+918666000000,AP-BB-2020-3697,16.53184,80.665173,4.3,TRUE
+20,Benz Circle Government Blood Bank,"79, 2nd Cross Street, Benz Circle, Vijayawada, Andhra Pradesh",Vijayawada,+918664000000,AP-BB-2020-4111,16.508956,80.6476,3.1,TRUE
+21,Yerramukkapalle Apollo Blood Bank,"114, Main Road, Yerramukkapalle, Kadapa, Andhra Pradesh",Kadapa,+918563000000,AP-BB-2022-1931,14.486082,78.830734,4.3,TRUE
+22,Stonehousepet General Blood Bank,"140, Gandhi Nagar, Stonehousepet, Nellore, Andhra Pradesh",Nellore,+918619000000,AP-BB-2018-1651,14.461948,79.99239,4.8,TRUE
+23,Labbipet Medical College Blood Bank,"143, Market Street, Labbipet, Vijayawada, Andhra Pradesh",Vijayawada,+918668000000,AP-BB-2022-5915,16.498361,80.644874,4.9,TRUE
+24,Arundelpet Red Cross Blood Center,"176, Main Road, Arundelpet, Guntur, Andhra Pradesh",Guntur,+918631000000,AP-BB-2020-6718,16.312677,80.432774,4.3,TRUE
+25,Gajuwaka Government Blood Bank,"42, Anna Salai, Gajuwaka, Visakhapatnam, Andhra Pradesh",Visakhapatnam,+918911000000,AP-BB-2019-5905,17.687668,83.223536,3.5,TRUE
+26,Yerramukkapalle Government Blood Bank,"6, Anna Salai, Yerramukkapalle, Kadapa, Andhra Pradesh",Kadapa,+918563000000,AP-BB-2019-5325,14.464608,78.833827,4.6,TRUE
+27,Lifeline Blood Bank Trunk Road,"10, Church Road, Trunk Road, Nellore, Andhra Pradesh",Nellore,+918613000000,AP-BB-2021-5291,14.444034,79.990613,3.1,FALSE
+28,Korlagunta Red Cross Blood Center,"100, Anna Salai, Korlagunta, Tirupati, Andhra Pradesh",Tirupati,+918776000000,AP-BB-2018-3426,13.627868,79.424338,3.4,TRUE
+29,Governorpet Government Blood Bank,"77, Church Road, Governorpet, Vijayawada, Andhra Pradesh",Vijayawada,+918669000000,AP-BB-2018-7658,16.51311,80.618497,3.3,FALSE
+30,Labbipet General Blood Bank,"31, Main Road, Labbipet, Vijayawada, Andhra Pradesh",Vijayawada,+918664000000,AP-BB-2023-5065,16.515267,80.658922,3.4,FALSE
+31,Patamata General Blood Bank,"97, 2nd Cross Street, Patamata, Vijayawada, Andhra Pradesh",Vijayawada,+918663000000,AP-BB-2021-4728,16.503456,80.64776,4.8,TRUE
+32,Sanjeevani Blood Bank Governorpet,"59, Main Road, Governorpet, Vijayawada, Andhra Pradesh",Vijayawada,+918665000000,AP-BB-2022-9785,16.517782,80.622086,3.1,TRUE
+33,Gajuwaka Community Blood Bank,"10, Gandhi Nagar, Gajuwaka, Visakhapatnam, Andhra Pradesh",Visakhapatnam,+918912000000,AP-BB-2022-9379,17.693656,83.21291,3,FALSE
+34,Lifeline Blood Bank Brodipet,"121, Main Road, Brodipet, Guntur, Andhra Pradesh",Guntur,+918636000000,AP-BB-2020-4228,16.312306,80.449708,4.4,TRUE
+35,Lifeline Blood Bank Benz Circle,"96, Anna Salai, Benz Circle, Vijayawada, Andhra Pradesh",Vijayawada,+918668000000,AP-BB-2025-5844,16.509107,80.642785,4.1,TRUE
+36,Innespeta Medical College Blood Bank,"125, Main Road, Innespeta, Rajahmundry, Andhra Pradesh",Rajahmundry,+918838000000,AP-BB-2024-6279,17.000816,81.765205,4.3,TRUE
+37,Jagannaickpur Government Blood Bank,"5, Market Street, Jagannaickpur, Kakinada, Andhra Pradesh",Kakinada,+918844000000,AP-BB-2022-4848,16.982388,82.221056,4.9,TRUE
+38,Sanjeevani Blood Bank Benz Circle,"27, Main Road, Benz Circle, Vijayawada, Andhra Pradesh",Vijayawada,+918667000000,AP-BB-2024-4185,16.502762,80.659584,4.5,TRUE
+39,Budhwarpet Medical College Blood Bank,"76, Market Street, Budhwarpet, Kurnool, Andhra Pradesh",Kurnool,+918518000000,AP-BB-2023-5082,15.828639,78.023807,4.1,FALSE
+40,Brodipet General Blood Bank,"198, Market Street, Brodipet, Guntur, Andhra Pradesh",Guntur,+918637000000,AP-BB-2018-9270,16.31008,80.443078,4.4,FALSE
+41,Pattabhipuram General Blood Bank,"197, Main Road, Pattabhipuram, Guntur, Andhra Pradesh",Guntur,+918635000000,AP-BB-2019-4919,16.300074,80.457439,3.6,TRUE
+42,Arundelpet Medical College Blood Bank #2,"125, Main Road, Arundelpet, Guntur, Andhra Pradesh",Guntur,+918633000000,AP-BB-2024-3503,16.302025,80.440291,3.8,TRUE
+43,Lifeline Blood Bank Dwaraka Nagar #2,"64, Anna Salai, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh",Visakhapatnam,+918920000000,AP-BB-2023-1320,17.723984,83.321294,4.6,FALSE
+44,Jagannaickpur District Blood Center,"84, Church Road, Jagannaickpur, Kakinada, Andhra Pradesh",Kakinada,+918847000000,AP-BB-2023-4613,16.979547,82.233039,3.6,TRUE
+45,Korlagunta District Blood Center,"57, Gandhi Nagar, Korlagunta, Tirupati, Andhra Pradesh",Tirupati,+918780000000,AP-BB-2023-3091,13.633225,79.424515,3.2,TRUE
+46,St. Thomas's Hospital Blood Bank (Vijayawada),"111, Anna Salai, Benz Circle, Vijayawada, Andhra Pradesh",Vijayawada,+918664000000,AP-BB-2019-6363,16.494552,80.640805,3.5,TRUE
+47,Suryaraopeta Government Blood Bank,"37, Market Street, Suryaraopeta, Kakinada, Andhra Pradesh",Kakinada,+918843000000,AP-BB-2022-6733,16.996571,82.225063,4.2,TRUE
+48,Benz Circle Apollo Blood Bank,"87, Main Road, Benz Circle, Vijayawada, Andhra Pradesh",Vijayawada,+918667000000,AP-BB-2021-4571,16.509184,80.649919,4.5,TRUE
+49,Budhwarpet Apollo Blood Bank,"34, Anna Salai, Budhwarpet, Kurnool, Andhra Pradesh",Kurnool,+918519000000,AP-BB-2024-6111,15.816343,78.02307,4.3,TRUE
+50,Lifeline Blood Bank AIR Bypass Road #2,"170, Anna Salai, AIR Bypass Road, Tirupati, Andhra Pradesh",Tirupati,+918779000000,AP-BB-2018-2983,13.655816,79.413847,4,TRUE
+51,MVP Colony Government Blood Bank #2,"138, Main Road, MVP Colony, Visakhapatnam, Andhra Pradesh",Visakhapatnam,+918917000000,AP-BB-2020-6934,17.74227,83.321366,4.5,TRUE
+52,St. Peter's Hospital Blood Bank (Kakinada),"146, Church Road, Suryaraopeta, Kakinada, Andhra Pradesh",Kakinada,+918845000000,AP-BB-2020-5397,16.988046,82.248272,4.1,TRUE
+53,Lakshmipuram General Blood Bank,"121, Gandhi Nagar, Lakshmipuram, Guntur, Andhra Pradesh",Guntur,+918637000000,AP-BB-2023-3979,16.286861,80.450529,4.3,TRUE
+54,Kallur District Blood Center,"35, Main Road, Kallur, Kurnool, Andhra Pradesh",Kurnool,+918519000000,AP-BB-2023-4954,15.823699,78.037932,3.9,TRUE
+55,Lifeline Blood Bank Gunadala,"56, Market Street, Gunadala, Vijayawada, Andhra Pradesh",Vijayawada,+918670000000,AP-BB-2024-6016,16.512548,80.658854,4.9,TRUE
+56,Sanjeevani Blood Bank AC Subba Reddy Nagar,"158, Main Road, AC Subba Reddy Nagar, Nellore, Andhra Pradesh",Nellore,+918613000000,AP-BB-2023-5118,14.461286,79.976727,3.4,TRUE
+57,Trunk Road Community Blood Bank,"195, Anna Salai, Trunk Road, Nellore, Andhra Pradesh",Nellore,+918619000000,AP-BB-2024-9595,14.442638,80.000798,3.3,TRUE
+58,Gunadala General Blood Bank,"33, Market Street, Gunadala, Vijayawada, Andhra Pradesh",Vijayawada,+918668000000,AP-BB-2022-1893,16.509697,80.639465,3.5,TRUE
+59,Sanjeevani Blood Bank Arundelpet,"101, Market Street, Arundelpet, Guntur, Andhra Pradesh",Guntur,+918631000000,AP-BB-2021-8827,16.303031,80.430341,3.3,FALSE
+60,Arundelpet Community Blood Bank,"16, Gandhi Nagar, Arundelpet, Guntur, Andhra Pradesh",Guntur,+918640000000,AP-BB-2022-7818,16.300055,80.436246,4.7,TRUE
+61,Pattabhipuram Community Blood Bank,"118, 2nd Cross Street, Pattabhipuram, Guntur, Andhra Pradesh",Guntur,+918639000000,AP-BB-2018-1986,16.306801,80.450961,3.5,TRUE
+62,Lakshmipuram Medical College Blood Bank,"57, Market Street, Lakshmipuram, Guntur, Andhra Pradesh",Guntur,+918634000000,AP-BB-2019-8699,16.28608,80.438515,4.3,FALSE
+63,Lifeline Blood Bank Arundelpet,"15, Main Road, Arundelpet, Guntur, Andhra Pradesh",Guntur,+918636000000,AP-BB-2022-4241,16.315194,80.452917,3.1,TRUE
+64,St. Mary's Hospital Blood Bank (Visakhapatnam),"62, 2nd Cross Street, MVP Colony, Visakhapatnam, Andhra Pradesh",Visakhapatnam,+918917000000,AP-BB-2021-5728,17.735451,83.342927,4,TRUE
+65,Lakshmipuram Apollo Blood Bank,"162, Gandhi Nagar, Lakshmipuram, Guntur, Andhra Pradesh",Guntur,+918639000000,AP-BB-2025-6280,16.287196,80.437961,4.8,FALSE
+66,St. Mary's Hospital Blood Bank #2 (Guntur),"160, Gandhi Nagar, Brodipet, Guntur, Andhra Pradesh",Guntur,+918638000000,AP-BB-2019-3870,16.316343,80.438787,4.2,TRUE
+67,Gunadala Apollo Blood Bank #2,"69, Anna Salai, Gunadala, Vijayawada, Andhra Pradesh",Vijayawada,+918661000000,AP-BB-2024-6260,16.52,80.65035,4.5,TRUE
+68,Lifeline Blood Bank Kallur,"144, 2nd Cross Street, Kallur, Kurnool, Andhra Pradesh",Kurnool,+918519000000,AP-BB-2025-2899,15.810842,78.039772,3.1,TRUE
+69,Sanjeevani Blood Bank Budhwarpet,"119, Church Road, Budhwarpet, Kurnool, Andhra Pradesh",Kurnool,+918518000000,AP-BB-2019-1845,15.835793,78.041062,4.7,TRUE
+70,Jagannaickpur Medical College Blood Bank,"28, Church Road, Jagannaickpur, Kakinada, Andhra Pradesh",Kakinada,+918842000000,AP-BB-2025-4920,16.992594,82.229266,3.4,FALSE
+71,Lifeline Blood Bank Arundelpet #2,"137, Anna Salai, Arundelpet, Guntur, Andhra Pradesh",Guntur,+918637000000,AP-BB-2018-3522,16.311343,80.432324,3.5,TRUE
+72,Sanjeevani Blood Bank Dargamitta,"184, 2nd Cross Street, Dargamitta, Nellore, Andhra Pradesh",Nellore,+918611000000,AP-BB-2025-3236,14.433318,79.980181,3.5,TRUE
+73,St. Anne's Hospital Blood Bank (Kakinada),"108, Main Road, Suryaraopeta, Kakinada, Andhra Pradesh",Kakinada,+918848000000,AP-BB-2021-3434,16.991498,82.243298,3.7,FALSE
+74,Yerramukkapalle Red Cross Blood Center,"5, Church Road, Yerramukkapalle, Kadapa, Andhra Pradesh",Kadapa,+918562000000,AP-BB-2024-7274,14.487923,78.821964,3.7,TRUE
+75,Innespeta Community Blood Bank,"197, Church Road, Innespeta, Rajahmundry, Andhra Pradesh",Rajahmundry,+918833000000,AP-BB-2018-1606,17.021125,81.77376,4,TRUE
+76,Sanjeevani Blood Bank Pattabhipuram,"20, Market Street, Pattabhipuram, Guntur, Andhra Pradesh",Guntur,+918632000000,AP-BB-2025-3529,16.289399,80.461443,4.6,FALSE
+77,Dwaraka Nagar Apollo Blood Bank,"68, 2nd Cross Street, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh",Visakhapatnam,+918918000000,AP-BB-2022-8994,17.7237,83.3077,4.4,TRUE
+78,Pattabhipuram General Blood Bank #2,"30, Church Road, Pattabhipuram, Guntur, Andhra Pradesh",Guntur,+918637000000,AP-BB-2018-2646,16.299911,80.462917,3.6,TRUE
+79,Danavaipeta District Blood Center,"167, Gandhi Nagar, Danavaipeta, Rajahmundry, Andhra Pradesh",Rajahmundry,+918832000000,AP-BB-2018-3950,16.994526,81.777362,3.9,TRUE
+80,Jagannaickpur Government Blood Bank #2,"121, Anna Salai, Jagannaickpur, Kakinada, Andhra Pradesh",Kakinada,+918848000000,AP-BB-2020-5183,16.977234,82.218619,4.9,TRUE
+81,St. Anne's Hospital Blood Bank #2 (Vijayawada),"138, Church Road, Labbipet, Vijayawada, Andhra Pradesh",Vijayawada,+918664000000,AP-BB-2019-5949,16.511909,80.646705,3.7,TRUE
+82,Sanjeevani Blood Bank Benz Circle #2,"61, 2nd Cross Street, Benz Circle, Vijayawada, Andhra Pradesh",Vijayawada,+918664000000,AP-BB-2021-7484,16.497957,80.662338,4.5,TRUE
+83,Kallur Community Blood Bank,"146, Market Street, Kallur, Kurnool, Andhra Pradesh",Kurnool,+918518000000,AP-BB-2025-5106,15.81477,78.037904,4.1,TRUE
+84,Lifeline Blood Bank Innespeta,"98, Main Road, Innespeta, Rajahmundry, Andhra Pradesh",Rajahmundry,+918832000000,AP-BB-2024-7807,17.018989,81.768702,4.7,FALSE
+85,Trunk Road Red Cross Blood Center,"61, Main Road, Trunk Road, Nellore, Andhra Pradesh",Nellore,+918615000000,AP-BB-2021-5835,14.448321,79.999826,4.8,FALSE
+86,Tilak Road Medical College Blood Bank,"88, Gandhi Nagar, Tilak Road, Tirupati, Andhra Pradesh",Tirupati,+918778000000,AP-BB-2025-5332,13.621609,79.416037,4.6,FALSE
+87,AIR Bypass Road Community Blood Bank,"29, Main Road, AIR Bypass Road, Tirupati, Andhra Pradesh",Tirupati,+918779000000,AP-BB-2018-6374,13.655145,79.418944,3.3,FALSE
+88,Lakshmipuram Government Blood Bank,"98, Gandhi Nagar, Lakshmipuram, Guntur, Andhra Pradesh",Guntur,+918638000000,AP-BB-2025-4846,16.315878,80.428484,4.1,TRUE
+89,Gajuwaka District Blood Center,"197, Church Road, Gajuwaka, Visakhapatnam, Andhra Pradesh",Visakhapatnam,+918914000000,AP-BB-2022-7686,17.691448,83.228511,4.6,TRUE
+90,AIR Bypass Road Government Blood Bank,"8, 2nd Cross Street, AIR Bypass Road, Tirupati, Andhra Pradesh",Tirupati,+918776000000,AP-BB-2022-6876,13.64592,79.431851,4.2,TRUE
+91,St. Xavier's Hospital Blood Bank (Vijayawada),"59, Church Road, Benz Circle, Vijayawada, Andhra Pradesh",Vijayawada,+918669000000,AP-BB-2023-3063,16.490617,80.643005,4.5,TRUE
+92,Sanjeevani Blood Bank Dargamitta #2,"178, Anna Salai, Dargamitta, Nellore, Andhra Pradesh",Nellore,+918612000000,AP-BB-2025-5542,14.451259,79.980079,3.3,TRUE
+93,Budhwarpet Medical College Blood Bank #2,"149, 2nd Cross Street, Budhwarpet, Kurnool, Andhra Pradesh",Kurnool,+918519000000,AP-BB-2024-5347,15.830766,78.022773,3.9,TRUE
+94,Dargamitta Government Blood Bank,"144, Anna Salai, Dargamitta, Nellore, Andhra Pradesh",Nellore,+918618000000,AP-BB-2021-1710,14.430872,79.977315,3.8,TRUE
+95,Sanjeevani Blood Bank Labbipet,"130, Anna Salai, Labbipet, Vijayawada, Andhra Pradesh",Vijayawada,+918666000000,AP-BB-2024-2323,16.518491,80.635205,4.2,TRUE
+96,MVP Colony Apollo Blood Bank,"144, Market Street, MVP Colony, Visakhapatnam, Andhra Pradesh",Visakhapatnam,+918918000000,AP-BB-2023-5831,17.729027,83.336122,4.4,TRUE
+97,Governorpet Red Cross Blood Center,"122, 2nd Cross Street, Governorpet, Vijayawada, Andhra Pradesh",Vijayawada,+918667000000,AP-BB-2021-8430,16.529143,80.614114,3.7,TRUE
+98,Dwaraka Nagar Red Cross Blood Center,"163, Market Street, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh",Visakhapatnam,+918916000000,AP-BB-2024-2527,17.714314,83.323153,4.8,TRUE
+99,Governorpet Red Cross Blood Center #2,"161, Church Road, Governorpet, Vijayawada, Andhra Pradesh",Vijayawada,+918665000000,AP-BB-2019-7929,16.506167,80.612308,3.3,TRUE
+100,Sanjeevani Blood Bank Innespeta,"89, 2nd Cross Street, Innespeta, Rajahmundry, Andhra Pradesh",Rajahmundry,+918835000000,AP-BB-2025-2882,17.002203,81.775588,4.3,TRUE
